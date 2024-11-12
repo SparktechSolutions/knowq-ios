@@ -16,6 +16,22 @@
 		3A2CAFAF2CE1D5D9002D409E /* KnowQTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CAFAE2CE1D5D9002D409E /* KnowQTests.swift */; };
 		3A2CAFB92CE1D5D9002D409E /* KnowQUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CAFB82CE1D5D9002D409E /* KnowQUITests.swift */; };
 		3A2CAFBB2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CAFBA2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift */; };
+		3A77FA562CE34FF900CFDDE4 /* ReportsSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A77FA552CE34FF900CFDDE4 /* ReportsSummaryView.swift */; };
+		3AC458862CE1E57B0075D959 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458852CE1E57B0075D959 /* SplashView.swift */; };
+		3AC4588A2CE209660075D959 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458892CE209660075D959 /* MainTabView.swift */; };
+		3AC458952CE20F170075D959 /* WatchlistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458942CE20F170075D959 /* WatchlistView.swift */; };
+		3AC4589A2CE20F4D0075D959 /* BookingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458992CE20F4D0075D959 /* BookingView.swift */; };
+		3AC4589C2CE20F630075D959 /* ConsultingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC4589B2CE20F630075D959 /* ConsultingView.swift */; };
+		3AC458A32CE210300075D959 /* PatientConsultationsHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458A22CE210300075D959 /* PatientConsultationsHistoryView.swift */; };
+		3AC458A52CE210490075D959 /* DoctorConsultationsHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458A42CE210490075D959 /* DoctorConsultationsHistoryView.swift */; };
+		3AC458AB2CE210950075D959 /* ConsultationsHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458AA2CE210950075D959 /* ConsultationsHistoryView.swift */; };
+		3AC458AF2CE211960075D959 /* UserType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458AE2CE211960075D959 /* UserType.swift */; };
+		3AC458B22CE212220075D959 /* AuthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458B12CE212220075D959 /* AuthView.swift */; };
+		3AC458B52CE212730075D959 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458B42CE212730075D959 /* ProfileView.swift */; };
+		3AC458BA2CE212BB0075D959 /* PatientProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458B92CE212BB0075D959 /* PatientProfileView.swift */; };
+		3AC458BC2CE212C60075D959 /* DoctorProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458BB2CE212C60075D959 /* DoctorProfileView.swift */; };
+		3AC458C12CE250B60075D959 /* UIScreen+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458C02CE250B60075D959 /* UIScreen+Extensions.swift */; };
+		3AC458C42CE2861E0075D959 /* WatchlistViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458C32CE2861E0075D959 /* WatchlistViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +65,22 @@
 		3A2CAFB42CE1D5D9002D409E /* KnowQUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KnowQUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A2CAFB82CE1D5D9002D409E /* KnowQUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowQUITests.swift; sourceTree = "<group>"; };
 		3A2CAFBA2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowQUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3A77FA552CE34FF900CFDDE4 /* ReportsSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsSummaryView.swift; sourceTree = "<group>"; };
+		3AC458852CE1E57B0075D959 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		3AC458892CE209660075D959 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		3AC458942CE20F170075D959 /* WatchlistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchlistView.swift; sourceTree = "<group>"; };
+		3AC458992CE20F4D0075D959 /* BookingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingView.swift; sourceTree = "<group>"; };
+		3AC4589B2CE20F630075D959 /* ConsultingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultingView.swift; sourceTree = "<group>"; };
+		3AC458A22CE210300075D959 /* PatientConsultationsHistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientConsultationsHistoryView.swift; sourceTree = "<group>"; };
+		3AC458A42CE210490075D959 /* DoctorConsultationsHistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorConsultationsHistoryView.swift; sourceTree = "<group>"; };
+		3AC458AA2CE210950075D959 /* ConsultationsHistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultationsHistoryView.swift; sourceTree = "<group>"; };
+		3AC458AE2CE211960075D959 /* UserType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserType.swift; sourceTree = "<group>"; };
+		3AC458B12CE212220075D959 /* AuthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthView.swift; sourceTree = "<group>"; };
+		3AC458B42CE212730075D959 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		3AC458B92CE212BB0075D959 /* PatientProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientProfileView.swift; sourceTree = "<group>"; };
+		3AC458BB2CE212C60075D959 /* DoctorProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorProfileView.swift; sourceTree = "<group>"; };
+		3AC458C02CE250B60075D959 /* UIScreen+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIScreen+Extensions.swift"; sourceTree = "<group>"; };
+		3AC458C32CE2861E0075D959 /* WatchlistViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchlistViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +131,9 @@
 		3A2CAF962CE1D5D8002D409E /* KnowQ */ = {
 			isa = PBXGroup;
 			children = (
+				3AC458BF2CE250980075D959 /* Utils */,
+				3AC458AC2CE2116E0075D959 /* Models */,
+				3A2CAFC72CE1E227002D409E /* Features */,
 				3A2CAF972CE1D5D8002D409E /* KnowQApp.swift */,
 				3A2CAF992CE1D5D8002D409E /* Persistence.swift */,
 				3A2CAF9E2CE1D5D8002D409E /* ContentView.swift */,
@@ -133,6 +168,299 @@
 				3A2CAFBA2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift */,
 			);
 			path = KnowQUITests;
+			sourceTree = "<group>";
+		};
+		3A2CAFC72CE1E227002D409E /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				3A77FA572CE3535800CFDDE4 /* DoctorSearch */,
+				3AC458922CE20ACA0075D959 /* Auth */,
+				3AC4588D2CE209E50075D959 /* Profile */,
+				3AC4588C2CE209C60075D959 /* Consultation */,
+				3AC4588B2CE209B70075D959 /* Watchlist */,
+				3AC458872CE2082D0075D959 /* Home */,
+				3A2CAFC82CE1E23C002D409E /* Splash */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		3A2CAFC82CE1E23C002D409E /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				3A2CAFC92CE1E24A002D409E /* views */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		3A2CAFC92CE1E24A002D409E /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458852CE1E57B0075D959 /* SplashView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A77FA572CE3535800CFDDE4 /* DoctorSearch */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DoctorSearch;
+			sourceTree = "<group>";
+		};
+		3AC458872CE2082D0075D959 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458882CE2092E0075D959 /* views */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		3AC458882CE2092E0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458892CE209660075D959 /* MainTabView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC4588B2CE209B70075D959 /* Watchlist */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458C22CE285D70075D959 /* viewModels */,
+				3AC458932CE20EFC0075D959 /* views */,
+			);
+			path = Watchlist;
+			sourceTree = "<group>";
+		};
+		3AC4588C2CE209C60075D959 /* Consultation */ = {
+			isa = PBXGroup;
+			children = (
+				3AC4589D2CE20FAE0075D959 /* history */,
+				3AC458912CE20A610075D959 /* reports */,
+				3AC458902CE20A470075D959 /* consulting */,
+				3AC4588F2CE20A240075D959 /* booking */,
+			);
+			path = Consultation;
+			sourceTree = "<group>";
+		};
+		3AC4588D2CE209E50075D959 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458BD2CE212D10075D959 /* common */,
+				3AC458B72CE212910075D959 /* patient */,
+				3AC458B62CE212850075D959 /* doctor */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		3AC4588F2CE20A240075D959 /* booking */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458962CE20F280075D959 /* views */,
+			);
+			path = booking;
+			sourceTree = "<group>";
+		};
+		3AC458902CE20A470075D959 /* consulting */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458972CE20F2D0075D959 /* views */,
+			);
+			path = consulting;
+			sourceTree = "<group>";
+		};
+		3AC458912CE20A610075D959 /* reports */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458982CE20F380075D959 /* views */,
+			);
+			path = reports;
+			sourceTree = "<group>";
+		};
+		3AC458922CE20ACA0075D959 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B02CE212130075D959 /* views */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		3AC458932CE20EFC0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458942CE20F170075D959 /* WatchlistView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458962CE20F280075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458992CE20F4D0075D959 /* BookingView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458972CE20F2D0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC4589B2CE20F630075D959 /* ConsultingView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458982CE20F380075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A77FA552CE34FF900CFDDE4 /* ReportsSummaryView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC4589D2CE20FAE0075D959 /* history */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A82CE2106C0075D959 /* common */,
+				3AC4589F2CE20FE30075D959 /* patient */,
+				3AC4589E2CE20FDC0075D959 /* doctor */,
+			);
+			path = history;
+			sourceTree = "<group>";
+		};
+		3AC4589E2CE20FDC0075D959 /* doctor */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A12CE20FFC0075D959 /* views */,
+			);
+			path = doctor;
+			sourceTree = "<group>";
+		};
+		3AC4589F2CE20FE30075D959 /* patient */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A02CE20FEE0075D959 /* views */,
+			);
+			path = patient;
+			sourceTree = "<group>";
+		};
+		3AC458A02CE20FEE0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A22CE210300075D959 /* PatientConsultationsHistoryView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458A12CE20FFC0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A42CE210490075D959 /* DoctorConsultationsHistoryView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458A82CE2106C0075D959 /* common */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458A92CE210770075D959 /* views */,
+			);
+			path = common;
+			sourceTree = "<group>";
+		};
+		3AC458A92CE210770075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458AA2CE210950075D959 /* ConsultationsHistoryView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458AC2CE2116E0075D959 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458AD2CE211760075D959 /* Enums */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3AC458AD2CE211760075D959 /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458AE2CE211960075D959 /* UserType.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		3AC458B02CE212130075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B12CE212220075D959 /* AuthView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458B32CE212600075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458BB2CE212C60075D959 /* DoctorProfileView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458B62CE212850075D959 /* doctor */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B32CE212600075D959 /* views */,
+			);
+			path = doctor;
+			sourceTree = "<group>";
+		};
+		3AC458B72CE212910075D959 /* patient */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B82CE2129C0075D959 /* views */,
+			);
+			path = patient;
+			sourceTree = "<group>";
+		};
+		3AC458B82CE2129C0075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B92CE212BB0075D959 /* PatientProfileView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458BD2CE212D10075D959 /* common */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458BE2CE212D80075D959 /* views */,
+			);
+			path = common;
+			sourceTree = "<group>";
+		};
+		3AC458BE2CE212D80075D959 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458B42CE212730075D959 /* ProfileView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AC458BF2CE250980075D959 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458C02CE250B60075D959 /* UIScreen+Extensions.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3AC458C22CE285D70075D959 /* viewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3AC458C32CE2861E0075D959 /* WatchlistViewModel.swift */,
+			);
+			path = viewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,10 +593,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3AC458B22CE212220075D959 /* AuthView.swift in Sources */,
+				3AC458C12CE250B60075D959 /* UIScreen+Extensions.swift in Sources */,
+				3AC458AB2CE210950075D959 /* ConsultationsHistoryView.swift in Sources */,
+				3AC4589A2CE20F4D0075D959 /* BookingView.swift in Sources */,
+				3AC458AF2CE211960075D959 /* UserType.swift in Sources */,
+				3AC458BA2CE212BB0075D959 /* PatientProfileView.swift in Sources */,
 				3A2CAF982CE1D5D8002D409E /* KnowQApp.swift in Sources */,
+				3A77FA562CE34FF900CFDDE4 /* ReportsSummaryView.swift in Sources */,
 				3A2CAF9D2CE1D5D8002D409E /* KnowQ.xcdatamodeld in Sources */,
+				3AC458862CE1E57B0075D959 /* SplashView.swift in Sources */,
+				3AC458B52CE212730075D959 /* ProfileView.swift in Sources */,
+				3AC458C42CE2861E0075D959 /* WatchlistViewModel.swift in Sources */,
+				3AC458952CE20F170075D959 /* WatchlistView.swift in Sources */,
 				3A2CAF9F2CE1D5D8002D409E /* ContentView.swift in Sources */,
+				3AC458A32CE210300075D959 /* PatientConsultationsHistoryView.swift in Sources */,
+				3AC458BC2CE212C60075D959 /* DoctorProfileView.swift in Sources */,
+				3AC458A52CE210490075D959 /* DoctorConsultationsHistoryView.swift in Sources */,
+				3AC4589C2CE20F630075D959 /* ConsultingView.swift in Sources */,
 				3A2CAF9A2CE1D5D8002D409E /* Persistence.swift in Sources */,
+				3AC4588A2CE209660075D959 /* MainTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

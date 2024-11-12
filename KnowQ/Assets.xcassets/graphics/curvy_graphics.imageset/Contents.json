@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "curvy_graphics.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
