@@ -8,8 +8,18 @@
 import SwiftUI
 
 struct ConsultingView: View {
+    @ObservedObject var viewModel = ConsultingViewModel()
     var body: some View {
-        Text("Consulting View")
+        Group {
+            if viewModel.isConsultationStarted {
+                InConsultationView()
+                    .environmentObject(viewModel)
+            } else {
+                StartConsultationView()
+                    .environmentObject(viewModel)
+            }
+        }
+        .applyNavigationModifier(title: "Consultation", contentAlignment: .center, hasDivider: false)
     }
 }
 

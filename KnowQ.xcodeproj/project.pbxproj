@@ -17,6 +17,20 @@
 		3A2CAFB92CE1D5D9002D409E /* KnowQUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CAFB82CE1D5D9002D409E /* KnowQUITests.swift */; };
 		3A2CAFBB2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2CAFBA2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift */; };
 		3A77FA562CE34FF900CFDDE4 /* ReportsSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A77FA552CE34FF900CFDDE4 /* ReportsSummaryView.swift */; };
+		3A9871DB2CE3624E004667A2 /* NotificationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871DA2CE3624E004667A2 /* NotificationsView.swift */; };
+		3A9871DE2CE36273004667A2 /* DoctorSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871DD2CE36273004667A2 /* DoctorSearchView.swift */; };
+		3A9871E12CE36365004667A2 /* HomePageTabs+Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871E02CE36365004667A2 /* HomePageTabs+Enum.swift */; };
+		3A9871E32CE36915004667A2 /* MainTabView+TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871E22CE36915004667A2 /* MainTabView+TabBar.swift */; };
+		3A9871E52CE369B1004667A2 /* MainTabView+Header.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871E42CE369B1004667A2 /* MainTabView+Header.swift */; };
+		3A9871EC2CE373A5004667A2 /* UpcomingConsultationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871EB2CE373A5004667A2 /* UpcomingConsultationsView.swift */; };
+		3A9871F02CE373E9004667A2 /* ConsultationReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871EF2CE373E9004667A2 /* ConsultationReportView.swift */; };
+		3A9871F42CE3742C004667A2 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871F32CE3742C004667A2 /* SettingsView.swift */; };
+		3A9871F62CE374B3004667A2 /* WatchlistView+UpcomingAppointments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871F52CE374B3004667A2 /* WatchlistView+UpcomingAppointments.swift */; };
+		3A9871F82CE38557004667A2 /* Navigation+ViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871F72CE38557004667A2 /* Navigation+ViewModifier.swift */; };
+		3A9871FA2CE386A7004667A2 /* PrimaryNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9871F92CE386A7004667A2 /* PrimaryNavigationBar.swift */; };
+		3AB979032CEB59050017BAD7 /* StartConsultationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB979022CEB59050017BAD7 /* StartConsultationView.swift */; };
+		3AB979052CEB59FB0017BAD7 /* InConsultationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB979042CEB59FB0017BAD7 /* InConsultationView.swift */; };
+		3AB979082CEB66AC0017BAD7 /* ConsultingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB979072CEB66AC0017BAD7 /* ConsultingViewModel.swift */; };
 		3AC458862CE1E57B0075D959 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458852CE1E57B0075D959 /* SplashView.swift */; };
 		3AC4588A2CE209660075D959 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458892CE209660075D959 /* MainTabView.swift */; };
 		3AC458952CE20F170075D959 /* WatchlistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC458942CE20F170075D959 /* WatchlistView.swift */; };
@@ -66,6 +80,20 @@
 		3A2CAFB82CE1D5D9002D409E /* KnowQUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowQUITests.swift; sourceTree = "<group>"; };
 		3A2CAFBA2CE1D5D9002D409E /* KnowQUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowQUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3A77FA552CE34FF900CFDDE4 /* ReportsSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportsSummaryView.swift; sourceTree = "<group>"; };
+		3A9871DA2CE3624E004667A2 /* NotificationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsView.swift; sourceTree = "<group>"; };
+		3A9871DD2CE36273004667A2 /* DoctorSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorSearchView.swift; sourceTree = "<group>"; };
+		3A9871E02CE36365004667A2 /* HomePageTabs+Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomePageTabs+Enum.swift"; sourceTree = "<group>"; };
+		3A9871E22CE36915004667A2 /* MainTabView+TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainTabView+TabBar.swift"; sourceTree = "<group>"; };
+		3A9871E42CE369B1004667A2 /* MainTabView+Header.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainTabView+Header.swift"; sourceTree = "<group>"; };
+		3A9871EB2CE373A5004667A2 /* UpcomingConsultationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingConsultationsView.swift; sourceTree = "<group>"; };
+		3A9871EF2CE373E9004667A2 /* ConsultationReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultationReportView.swift; sourceTree = "<group>"; };
+		3A9871F32CE3742C004667A2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		3A9871F52CE374B3004667A2 /* WatchlistView+UpcomingAppointments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WatchlistView+UpcomingAppointments.swift"; sourceTree = "<group>"; };
+		3A9871F72CE38557004667A2 /* Navigation+ViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Navigation+ViewModifier.swift"; sourceTree = "<group>"; };
+		3A9871F92CE386A7004667A2 /* PrimaryNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryNavigationBar.swift; sourceTree = "<group>"; };
+		3AB979022CEB59050017BAD7 /* StartConsultationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartConsultationView.swift; sourceTree = "<group>"; };
+		3AB979042CEB59FB0017BAD7 /* InConsultationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InConsultationView.swift; sourceTree = "<group>"; };
+		3AB979072CEB66AC0017BAD7 /* ConsultingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsultingViewModel.swift; sourceTree = "<group>"; };
 		3AC458852CE1E57B0075D959 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 		3AC458892CE209660075D959 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		3AC458942CE20F170075D959 /* WatchlistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchlistView.swift; sourceTree = "<group>"; };
@@ -131,6 +159,7 @@
 		3A2CAF962CE1D5D8002D409E /* KnowQ */ = {
 			isa = PBXGroup;
 			children = (
+				3A9871E62CE37133004667A2 /* KnowKit */,
 				3AC458BF2CE250980075D959 /* Utils */,
 				3AC458AC2CE2116E0075D959 /* Models */,
 				3A2CAFC72CE1E227002D409E /* Features */,
@@ -173,13 +202,16 @@
 		3A2CAFC72CE1E227002D409E /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				3A77FA572CE3535800CFDDE4 /* DoctorSearch */,
 				3AC458922CE20ACA0075D959 /* Auth */,
-				3AC4588D2CE209E50075D959 /* Profile */,
 				3AC4588C2CE209C60075D959 /* Consultation */,
-				3AC4588B2CE209B70075D959 /* Watchlist */,
+				3A9871D72CE36220004667A2 /* DoctorSearch */,
 				3AC458872CE2082D0075D959 /* Home */,
+				3A9871D82CE3622B004667A2 /* Notifications */,
+				3AC4588D2CE209E50075D959 /* Profile */,
+				3AC458912CE20A610075D959 /* Reports */,
+				3A9871F12CE37415004667A2 /* Settings */,
 				3A2CAFC82CE1E23C002D409E /* Splash */,
+				3AC4588B2CE209B70075D959 /* Watchlist */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -200,16 +232,131 @@
 			path = views;
 			sourceTree = "<group>";
 		};
-		3A77FA572CE3535800CFDDE4 /* DoctorSearch */ = {
+		3A9871D72CE36220004667A2 /* DoctorSearch */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871DC2CE36260004667A2 /* views */,
+			);
+			path = DoctorSearch;
+			sourceTree = "<group>";
+		};
+		3A9871D82CE3622B004667A2 /* Notifications */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871D92CE3623F004667A2 /* views */,
+			);
+			path = Notifications;
+			sourceTree = "<group>";
+		};
+		3A9871D92CE3623F004667A2 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871DA2CE3624E004667A2 /* NotificationsView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A9871DC2CE36260004667A2 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871DD2CE36273004667A2 /* DoctorSearchView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A9871DF2CE36336004667A2 /* viewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871E02CE36365004667A2 /* HomePageTabs+Enum.swift */,
+			);
+			path = viewModels;
+			sourceTree = "<group>";
+		};
+		3A9871E62CE37133004667A2 /* KnowKit */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871E82CE37159004667A2 /* Typography */,
+				3A9871E72CE37149004667A2 /* UIElements */,
+			);
+			path = KnowKit;
+			sourceTree = "<group>";
+		};
+		3A9871E72CE37149004667A2 /* UIElements */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871F72CE38557004667A2 /* Navigation+ViewModifier.swift */,
+				3A9871F92CE386A7004667A2 /* PrimaryNavigationBar.swift */,
+			);
+			path = UIElements;
+			sourceTree = "<group>";
+		};
+		3A9871E82CE37159004667A2 /* Typography */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = DoctorSearch;
+			path = Typography;
+			sourceTree = "<group>";
+		};
+		3A9871E92CE3735A004667A2 /* upcoming */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871EA2CE37377004667A2 /* views */,
+			);
+			path = upcoming;
+			sourceTree = "<group>";
+		};
+		3A9871EA2CE37377004667A2 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871EB2CE373A5004667A2 /* UpcomingConsultationsView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A9871ED2CE373B9004667A2 /* details */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871EE2CE373C3004667A2 /* views */,
+			);
+			path = details;
+			sourceTree = "<group>";
+		};
+		3A9871EE2CE373C3004667A2 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871EF2CE373E9004667A2 /* ConsultationReportView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A9871F12CE37415004667A2 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871F22CE3741F004667A2 /* views */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		3A9871F22CE3741F004667A2 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A9871F32CE3742C004667A2 /* SettingsView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3AB979062CEB668E0017BAD7 /* viewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3AB979072CEB66AC0017BAD7 /* ConsultingViewModel.swift */,
+			);
+			path = viewModels;
 			sourceTree = "<group>";
 		};
 		3AC458872CE2082D0075D959 /* Home */ = {
 			isa = PBXGroup;
 			children = (
+				3A9871DF2CE36336004667A2 /* viewModels */,
 				3AC458882CE2092E0075D959 /* views */,
 			);
 			path = Home;
@@ -219,6 +366,8 @@
 			isa = PBXGroup;
 			children = (
 				3AC458892CE209660075D959 /* MainTabView.swift */,
+				3A9871E22CE36915004667A2 /* MainTabView+TabBar.swift */,
+				3A9871E42CE369B1004667A2 /* MainTabView+Header.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -235,8 +384,9 @@
 		3AC4588C2CE209C60075D959 /* Consultation */ = {
 			isa = PBXGroup;
 			children = (
+				3A9871ED2CE373B9004667A2 /* details */,
+				3A9871E92CE3735A004667A2 /* upcoming */,
 				3AC4589D2CE20FAE0075D959 /* history */,
-				3AC458912CE20A610075D959 /* reports */,
 				3AC458902CE20A470075D959 /* consulting */,
 				3AC4588F2CE20A240075D959 /* booking */,
 			);
@@ -264,17 +414,18 @@
 		3AC458902CE20A470075D959 /* consulting */ = {
 			isa = PBXGroup;
 			children = (
+				3AB979062CEB668E0017BAD7 /* viewModels */,
 				3AC458972CE20F2D0075D959 /* views */,
 			);
 			path = consulting;
 			sourceTree = "<group>";
 		};
-		3AC458912CE20A610075D959 /* reports */ = {
+		3AC458912CE20A610075D959 /* Reports */ = {
 			isa = PBXGroup;
 			children = (
 				3AC458982CE20F380075D959 /* views */,
 			);
-			path = reports;
+			path = Reports;
 			sourceTree = "<group>";
 		};
 		3AC458922CE20ACA0075D959 /* Auth */ = {
@@ -289,6 +440,7 @@
 			isa = PBXGroup;
 			children = (
 				3AC458942CE20F170075D959 /* WatchlistView.swift */,
+				3A9871F52CE374B3004667A2 /* WatchlistView+UpcomingAppointments.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -305,6 +457,8 @@
 			isa = PBXGroup;
 			children = (
 				3AC4589B2CE20F630075D959 /* ConsultingView.swift */,
+				3AB979022CEB59050017BAD7 /* StartConsultationView.swift */,
+				3AB979042CEB59FB0017BAD7 /* InConsultationView.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -378,17 +532,17 @@
 		3AC458AC2CE2116E0075D959 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				3AC458AD2CE211760075D959 /* Enums */,
+				3AC458AD2CE211760075D959 /* enums */,
 			);
 			path = Models;
 			sourceTree = "<group>";
 		};
-		3AC458AD2CE211760075D959 /* Enums */ = {
+		3AC458AD2CE211760075D959 /* enums */ = {
 			isa = PBXGroup;
 			children = (
 				3AC458AE2CE211960075D959 /* UserType.swift */,
 			);
-			path = Enums;
+			path = enums;
 			sourceTree = "<group>";
 		};
 		3AC458B02CE212130075D959 /* views */ = {
@@ -595,24 +749,38 @@
 			files = (
 				3AC458B22CE212220075D959 /* AuthView.swift in Sources */,
 				3AC458C12CE250B60075D959 /* UIScreen+Extensions.swift in Sources */,
+				3AB979082CEB66AC0017BAD7 /* ConsultingViewModel.swift in Sources */,
+				3AB979032CEB59050017BAD7 /* StartConsultationView.swift in Sources */,
 				3AC458AB2CE210950075D959 /* ConsultationsHistoryView.swift in Sources */,
 				3AC4589A2CE20F4D0075D959 /* BookingView.swift in Sources */,
 				3AC458AF2CE211960075D959 /* UserType.swift in Sources */,
+				3A9871E12CE36365004667A2 /* HomePageTabs+Enum.swift in Sources */,
 				3AC458BA2CE212BB0075D959 /* PatientProfileView.swift in Sources */,
 				3A2CAF982CE1D5D8002D409E /* KnowQApp.swift in Sources */,
+				3A9871DE2CE36273004667A2 /* DoctorSearchView.swift in Sources */,
+				3A9871E32CE36915004667A2 /* MainTabView+TabBar.swift in Sources */,
+				3A9871F02CE373E9004667A2 /* ConsultationReportView.swift in Sources */,
 				3A77FA562CE34FF900CFDDE4 /* ReportsSummaryView.swift in Sources */,
+				3A9871E52CE369B1004667A2 /* MainTabView+Header.swift in Sources */,
 				3A2CAF9D2CE1D5D8002D409E /* KnowQ.xcdatamodeld in Sources */,
 				3AC458862CE1E57B0075D959 /* SplashView.swift in Sources */,
+				3A9871F62CE374B3004667A2 /* WatchlistView+UpcomingAppointments.swift in Sources */,
 				3AC458B52CE212730075D959 /* ProfileView.swift in Sources */,
+				3A9871FA2CE386A7004667A2 /* PrimaryNavigationBar.swift in Sources */,
 				3AC458C42CE2861E0075D959 /* WatchlistViewModel.swift in Sources */,
 				3AC458952CE20F170075D959 /* WatchlistView.swift in Sources */,
+				3A9871EC2CE373A5004667A2 /* UpcomingConsultationsView.swift in Sources */,
 				3A2CAF9F2CE1D5D8002D409E /* ContentView.swift in Sources */,
 				3AC458A32CE210300075D959 /* PatientConsultationsHistoryView.swift in Sources */,
+				3A9871F42CE3742C004667A2 /* SettingsView.swift in Sources */,
 				3AC458BC2CE212C60075D959 /* DoctorProfileView.swift in Sources */,
 				3AC458A52CE210490075D959 /* DoctorConsultationsHistoryView.swift in Sources */,
+				3AB979052CEB59FB0017BAD7 /* InConsultationView.swift in Sources */,
 				3AC4589C2CE20F630075D959 /* ConsultingView.swift in Sources */,
 				3A2CAF9A2CE1D5D8002D409E /* Persistence.swift in Sources */,
+				3A9871F82CE38557004667A2 /* Navigation+ViewModifier.swift in Sources */,
 				3AC4588A2CE209660075D959 /* MainTabView.swift in Sources */,
+				3A9871DB2CE3624E004667A2 /* NotificationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

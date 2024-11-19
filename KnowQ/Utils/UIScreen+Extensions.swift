@@ -6,7 +6,9 @@
 //
 
 import Foundation
-import UIKit
+#if canImport(UIKit)
+    import UIKit
+#endif
 
 extension UIScreen{
    static let screenWidth = UIScreen.main.bounds.size.width

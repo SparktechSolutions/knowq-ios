@@ -10,6 +10,8 @@ import SwiftUI
 struct ConsultationsHistoryView: View {
     var body: some View {
         Text("Consultations History")
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(.red)
     }
 }
 

@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct BookingView: View {
+struct ConsultationBookingView: View {
     var body: some View {
         Text("Booking")
     }
 }
 
 #Preview {
-    BookingView()
+    ConsultationBookingView()
 }

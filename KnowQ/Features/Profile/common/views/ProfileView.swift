@@ -12,15 +12,15 @@ struct ProfileView: View {
         VStack(alignment: .center) {
             ZStack(alignment: .top) {
                 
-                Rectangle()
-                    .foregroundColor(.black)
-                    .overlay(Image("curvy_graphics")
-                        .resizable()
-                        .scaledToFill()
-                        .frame(height: 120)
-                        .opacity(0.7))
-                    .edgesIgnoringSafeArea(.top)
-                    .frame(height: 120, alignment: .top)
+                Image("curvy_graphics")
+                    .resizable()
+                    .scaledToFill()
+                    .frame(height: 120)
+                    .clipShape(Rectangle())
+                    .opacity(0.7)
+                    .frame(height: 120, alignment: .bottom)
+                    .background(.black, ignoresSafeAreaEdges: .top)
+
                 Image("doctor")
                     .resizable()
                     .aspectRatio(contentMode: .fill)
@@ -39,7 +39,7 @@ struct ProfileView: View {
             Text("Experience: 12+ years")
 
         }
-        .frame(maxHeight: .infinity, alignment: .topLeading)
+        .applyNavigationModifier(title: "My Profile", contentAlignment: .topLeading, hasDivider: false)
     }
 }
 
